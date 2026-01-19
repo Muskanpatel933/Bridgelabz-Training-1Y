@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class pen{
+class Pen{
 public static void main(String args[])
 {
 Scanner s=new Scanner(System.in);

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class eric{
+class Eric{
 public static void main(String args[])
 {
 double chennaiToVellore=156.6;

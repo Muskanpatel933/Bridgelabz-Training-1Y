@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class handshake{
+class Handshake{
 public static void main(String args[])
 {
 Scanner s=new Scanner(System.in);

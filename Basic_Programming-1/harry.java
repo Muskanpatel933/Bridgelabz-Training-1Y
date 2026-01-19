@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class harry
+class Harry
 {
 public static void main(String agrs[])
 {

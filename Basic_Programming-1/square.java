@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class square{
+class Square{
 public static void main(String args[])
 {
 Scanner s=new Scanner(System.in);
